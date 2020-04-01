@@ -1,3 +1,4 @@
+//Revisión nota
 // entradas
 var nota1 = 1.5;
 var nota2 = 1.0;
