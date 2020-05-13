@@ -1,3 +1,4 @@
+// Revisión triangulos
 // entradas
 var lado1 = 120;
 var lado2 = 102;

@@ -1,3 +1,4 @@
+// Revisión salario
 // entradas
 var horasTrabajadas = 45;
 var valorHora = 2000;
